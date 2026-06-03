@@ -54,7 +54,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=qh09pkoAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/yuoohmaths
+  link: https://github.com/yutian-research
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yu-tian-30786812b/
