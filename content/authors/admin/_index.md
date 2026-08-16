@@ -22,8 +22,8 @@ organizations:
 interests:
 - Network Theory
 # - Network Dynamics and Optimisation
-# - Networks of positive and negative signs (signed networks)
-- Mathematical Statistics and Data Science
+# - Networks of positive and negative signs (signed networks) / Mathematical Statistics and 
+- Data Science
 
 # Education to show in About widget
 education:
